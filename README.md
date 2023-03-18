@@ -1,5 +1,5 @@
 <p>Hey 👋</p>
-My name is *Mohit Mandal* , a frontend engineer who loves creating stunning user interfaces. With expertise in HTML, CSS, JavaScript, React, and Next.js, I'm passionate about innovation and thinking outside the box. Let's connect if you're looking for a talented and daring developer to take your project to the next level.
+My name is Mohit Mandal , a frontend engineer who loves creating stunning user interfaces. With expertise in HTML, CSS, JavaScript, React, and Next.js, I'm passionate about innovation and thinking outside the box. Let's connect if you're looking for a talented and daring developer to take your project to the next level.
 
 - 🔭 I’m currently working at **Tickertape (Smallcase)**
 
